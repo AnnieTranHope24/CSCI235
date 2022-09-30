@@ -1,2 +1,2 @@
-# CSCI235
-Data Structure and Software Design
+# Collection
+Implement stack using linked list
